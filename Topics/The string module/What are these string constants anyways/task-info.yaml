@@ -1,0 +1,27 @@
+type: matching
+custom_name: What are these string constants anyways?
+captions:
+  - <code>string.digits</code>
+  - <code>string.punctuation</code>
+  - <code>string.octdigits</code>
+  - <code>string.ascii_uppercase</code>
+  - <code>string.whitespace</code>
+options:
+  - ABCDEFGHIJKLMNOPQRSTUVWXYZ
+  - '01234567'
+  - '0123456789'
+  - "!\"#$%&amp;\\'()*+,-./:;&lt;=&gt;?@[\\\\]^_`{|}~"
+  - '''\t\n\r\x0b\x0c'
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15335#comment
+status: Solved
+record: -1
+ordering:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4

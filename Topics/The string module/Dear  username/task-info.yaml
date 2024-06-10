@@ -1,0 +1,13 @@
+type: code
+custom_name: Dear <username>
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15341#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 10 Jun 2024 12:52:57 UTC"
+record: -1
+submission_language: python3
